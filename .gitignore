@@ -1,0 +1,5 @@
+# venv
+twitter_sentiment_analysis_venv/
+
+# env
+.env
